@@ -1,63 +1,12 @@
-p{
+p {
 
-color:#071821;
-
+   color: #071821;
 }
-/*
-p1{
-
-color:#90316b;
-
+h2 {
+   border: 1px solid #eb1919;
+   border-spacing: 10px;
+   background: rgba(30, 56, 126, 0.36);
 }
-
-p2{
-
-color:rgba(45, 126, 30, 0.99);
-
+section, footer{
+   border: 1px solid #000000;
 }
-code{
-   color:rgb(128, 128, 45)
-   
-}
-
-blockquote p {
-    padding: 10px;
-    background: rgba(30, 56, 126, 0.36);
-    border-radius: 5px;
-}
-pre{
-   color:#ffb07f
-   
-}
-h1{
-
-color:#5d4390;
-
-}
-
-h2{
-
-color:#90435e;
-
-}
-strong{
-   color:#ff00ce;
-   }
-   
-
-   
-a[href^="https"]::before {
-  content: "🔗 ";
-}
-
-a[href^="mailto"]::before {
-  content: "📧 ";
-}
-
-a[href^="tel"]::before {
-  content: "📞 ";
-}
-
-li {
-  margin-bottom: .5rem;
-*/
